@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/PlatformIO/Projects/ESP32_TFT_Clock"
+		},
+		{
+			"name": "ESP32 - Touch Screen teset",
+			"path": "../../Documents/PlatformIO/Projects/ESP32 - Touch Screen teset"
+		},
+		{
+			"name": "Weather Station",
+			"path": "../../Documents/PlatformIO/Projects/Weather Station"
+		},
+		{
+			"name": "IR Camera",
+			"path": "../../Documents/PlatformIO/Projects/IR Camera"
+		},
+		{
+			"name": "IR tester",
+			"path": "../../Documents/PlatformIO/Projects/IR tester"
+		}
+	],
+	"settings": {}
+}
